@@ -1,0 +1,164 @@
+Index,CODBAIRRO,Neighborhood,venues,Level_labels
+0,020,Botafogo,386,High-1 Level HV
+1,016,Glória,358,High-1 Level HV
+2,035,Maracanã,355,High-1 Level HV
+3,161,Lapa,353,High-1 Level HV
+4,005,Centro,336,High-1 Level HV
+5,027,Lagoa,316,High-1 Level HV
+6,001,Saúde,316,High-1 Level HV
+7,024,Copacabana,313,High-1 Level HV
+8,033,Tijuca,308,High-1 Level HV
+9,014,Santa Teresa,302,High-1 Level HV
+10,036,Vila Isabel,291,Mid-2 Level HV
+11,021,Humaitá,286,Mid-2 Level HV
+12,017,Laranjeiras,282,Mid-2 Level HV
+13,002,Gamboa,277,Mid-2 Level HV
+14,019,Cosme Velho,268,Mid-2 Level HV
+15,015,Flamengo,263,Mid-2 Level HV
+16,025,Ipanema,255,Mid-2 Level HV
+17,018,Catete,251,Mid-2 Level HV
+18,063,Méier,234,Mid-2 Level HV
+19,064,Todos os Santos,229,Mid-2 Level HV
+20,065,Cachambi,223,Mid-2 Level HV
+21,009,Estácio,222,Mid-2 Level HV
+22,128,Barra da Tijuca,205,Mid-2 Level HV
+23,008,Cidade Nova,202,Mid-2 Level HV
+24,022,Urca,193,High-2 Level HV
+25,032,Praça da Bandeira,188,High-2 Level HV
+26,026,Leblon,183,High-2 Level HV
+27,061,Engenho Novo,183,High-2 Level HV
+28,037,Andaraí,183,High-2 Level HV
+29,062,Lins de Vasconcelos,176,High-2 Level HV
+30,066,Engenho de Dentro,171,High-2 Level HV
+31,144,Campo Grande,161,High-2 Level HV
+32,007,Rio Comprido,149,High-2 Level HV
+33,003,Santo Cristo,146,High-2 Level HV
+34,028,Jardim Botânico,145,High-2 Level HV
+35,006,Catumbi,142,High-2 Level HV
+36,023,Leme,142,High-2 Level HV
+37,140,Padre Miguel,141,High-2 Level HV
+38,050,Higienópolis,137,High-2 Level HV
+39,121,Pechincha,136,High-2 Level HV
+40,054,Inhaúma,134,High-2 Level HV
+41,053,Del Castilho,133,High-2 Level HV
+42,029,Gávea,132,High-2 Level HV
+43,083,Madureira,130,High-2 Level HV
+44,078,Campinho,129,High-2 Level HV
+45,081,Engenheiro Leal,129,High-2 Level HV
+46,123,Tanque,124,High-2 Level HV
+47,100,Jardim Carioca,122,High-2 Level HV
+48,040,Bonsucesso,118,High-2 Level HV
+49,099,Jardim Guanabara,118,High-2 Level HV
+50,085,Turiaçu,117,High-2 Level HV
+51,010,São Cristóvão,116,High-2 Level HV
+52,039,Manguinhos,116,High-2 Level HV
+53,098,Freguesia,116,High-2 Level HV
+54,088,Oswaldo Cruz,115,High-2 Level HV
+55,082,Cascadura,113,High-2 Level HV
+56,074,Vila da Penha,113,High-2 Level HV
+57,120,Freguesia de Jacarepaguá,111,High-2 Level HV
+58,132,Recreio dos Bandeirantes,110,High-2 Level HV
+59,102,Moneró,108,High-2 Level HV
+60,141,Bangu,107,High-2 Level HV
+61,122,Taquara,106,High-2 Level HV
+62,103,Portuguesa,105,High-2 Level HV
+63,041,Ramos,101,High-2 Level HV
+64,076,Irajá,100,High-2 Level HV
+65,070,Abolição,100,High-2 Level HV
+66,071,Pilares,97,Mid-1 Level HV
+67,052,Maria da Graça,96,Mid-1 Level HV
+68,114,Pavuna,95,Mid-1 Level HV
+69,060,Sampaio,95,Mid-1 Level HV
+70,084,Vaz Lobo,93,Mid-1 Level HV
+71,075,Vista Alegre,91,Mid-1 Level HV
+72,059,Riachuelo,90,Mid-1 Level HV
+73,155,Jacarezinho,89,Mid-1 Level HV
+74,157,Maré,89,Mid-1 Level HV
+75,043,Penha,85,Mid-1 Level HV
+76,072,Vila Kosmos,82,Mid-1 Level HV
+77,057,São Francisco Xavier,80,Mid-1 Level HV
+78,073,Vicente de Carvalho,80,Mid-1 Level HV
+79,045,Brás de Pina,80,Mid-1 Level HV
+80,077,Colégio,80,Mid-1 Level HV
+81,089,Bento Ribeiro,80,Mid-1 Level HV
+82,012,Benfica,78,Mid-1 Level HV
+83,058,Rocha,78,Mid-1 Level HV
+84,044,Penha Circular,77,Mid-1 Level HV
+85,158,Vasco da Gama,70,Mid-1 Level HV
+86,101,Tauá,68,Mid-1 Level HV
+87,068,Encantado,67,Mid-1 Level HV
+88,125,Vila Valqueire,66,Mid-1 Level HV
+89,116,Anil,65,Mid-1 Level HV
+90,069,Piedade,64,Mid-1 Level HV
+91,030,Vidigal,64,Mid-1 Level HV
+92,115,Jacarepaguá,64,Mid-1 Level HV
+93,107,Anchieta,64,Mid-1 Level HV
+94,038,Grajaú,63,Mid-1 Level HV
+95,051,Jacaré,63,Mid-1 Level HV
+96,096,Cocotá,61,Mid-1 Level HV
+97,139,Realengo,61,Mid-1 Level HV
+98,095,Praia da Bandeira,60,Mid-1 Level HV
+99,136,Campo dos Afonsos,58,Mid-1 Level HV
+100,090,Marechal Hermes,57,Mid-1 Level HV
+101,156,Complexo do Alemão,56,Mid-1 Level HV
+102,080,Cavalcanti,54,Mid-1 Level HV
+103,134,Deodoro,53,Mid-1 Level HV
+104,108,Parque Anchieta,49,Low Level HV
+105,112,Barros Filho,47,Low Level HV
+106,048,Vigário Geral,46,Low Level HV
+107,092,Zumbi,44,Low Level HV
+108,094,Pitangueiras,44,Low Level HV
+109,093,Cacuia,43,Low Level HV
+110,149,Santa Cruz,42,Low Level HV
+111,067,Água Santa,42,Low Level HV
+112,109,Ricardo de Albuquerque,42,Low Level HV
+114,086,Rocha Miranda,41,Low Level HV
+115,154,Rocinha,40,Low Level HV
+116,119,Curicica,40,Low Level HV
+117,126,Joá,40,Low Level HV
+118,106,Guadalupe,40,Low Level HV
+119,138,Magalhães Bastos,38,Low Level HV
+120,079,Quintino Bocaiuva,38,Low Level HV
+121,124,Praça Seca,35,Low Level HV
+122,004,Caju,35,Low Level HV
+123,056,Tomás Coelho,34,Low Level HV
+124,087,Honório Gurgel,34,Low Level HV
+125,111,Acari,33,Low Level HV
+126,113,Costa Barros,31,Low Level HV
+127,159,Parque Colúmbia,31,Low Level HV
+128,110,Coelho Neto,31,Low Level HV
+129,105,Cidade Universitária,31,Low Level HV
+130,046,Cordovil,28,Low Level HV
+131,146,Inhoaíba,27,Low Level HV
+132,117,Gardênia Azul,27,Low Level HV
+133,097,Bancários,26,Low Level HV
+134,118,Cidade de Deus,26,Low Level HV
+135,049,Jardim América,24,Low Level HV
+136,047,Parada de Lucas,23,Low Level HV
+137,142,Senador Camará,19,Low Level HV
+138,147,Cosmos,19,Low Level HV
+139,031,São Conrado,19,Low Level HV
+140,127,Itanhangá,19,Low Level HV
+141,055,Engenho da Rainha,17,Low Level HV
+142,104,Galeão,17,Low Level HV
+143,135,Vila Militar,16,Low Level HV
+144,137,Jardim Sulacap,15,Low Level HV
+145,163,Jabour,15,Low Level HV
+146,145,Senador Vasconcelos,15,Low Level HV
+147,162,Vila Kennedy,14,Low Level HV
+148,130,Vargem Pequena,12,Low Level HV
+149,091,Ribeira,12,Low Level HV
+150,160,Gericinó,11,Low Level HV
+151,143,Santíssimo,11,Low Level HV
+152,131,Vargem Grande,10,Low Level HV
+153,150,Sepetiba,10,Low Level HV
+154,129,Camorim,8,Low Level HV
+155,153,Pedra de Guaratiba,7,Low Level HV
+156,148,Paciência,6,Low Level HV
+157,034,Alto da Boa Vista,5,Low Level HV
+158,133,Grumari,0,Low Level HV
+159,152,Barra de Guaratiba,0,Low Level HV
+160,151,Guaratiba,0,Low Level HV
+161,013,Paquetá,0,Low Level HV
+162,042,Olaria,152,High-2 Level HV
+163,011,Mangueira,0,Low Level HV
